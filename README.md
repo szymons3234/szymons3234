@@ -1,4 +1,4 @@
-# Cześć! 👋 Jestem Szymon Skrzypek | Hi there! 👋 I'm Szymon Skrzypek
+# Cześć! 👋 Jestem Szymon | Hi there! 👋 I'm Szymon
 
 ---
 
