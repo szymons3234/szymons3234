@@ -84,7 +84,7 @@
 
 ## 📈 Statystyki GitHub | GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=szymons3234&show_icons=true&theme=tokyonight&locale=pl)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=szymons3234&show_icons=true&theme=dark&locale=pl)
 
 ---
 
